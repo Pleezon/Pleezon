@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi, I'm Pleezon 👋
+I'm a student at a mathematically profiled high school in Berlin, Germany  
+📝Moderator at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
+### Coding
+- I'm fairly experienced with
+  - Java
+  - Python
+  - Typescript
+  - Javascript
+- I'm planning on learning
+  - Rust
+  - C#
+  - C++
+ 
+  
+ ### ✉️ Contact
+ - Email
+   - pleezon@javadiscord.net
+ - Discord
+   - Pleezon#8867
+
 
 <!--
 **Pleezon/Pleezon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
