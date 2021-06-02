@@ -11,7 +11,7 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
   - Rust
   - C#
   - C++
- 
+  - go(lang)
   
  ### ✉️ Contact
  - Email
