@@ -1,16 +1,17 @@
 # Hi, I'm Pleezon 👋
 I'm a student at a mathematically profiled high school in Berlin, Germany  
-📝Moderator at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
+📝Managing [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
 ### Coding
 - I'm fairly experienced with
   - Java
   - Python
-  - Typescript
   - Javascript
+  - Typescript
+  - c++
+  - Kotlin
 - I'm planning on learning
   - Rust
   - C#
-  - C++
   - go(lang)
   
  ### ✉️ Contact
