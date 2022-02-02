@@ -1,5 +1,5 @@
 # Hi, I'm Pleezon 👋
-I'm a student at a mathematically profiled high school in Berlin, Germany
+I'm a student at a mathematically profiled high school in Berlin, Germany  
 📝Manager at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
 
 ### Coding
