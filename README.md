@@ -1,6 +1,7 @@
 # Hi, I'm Pleezon 👋
-I'm a student at a mathematically profiled high school in Berlin, Germany  
-📝Managing [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
+I'm a student at a mathematically profiled high school in Berlin, Germany
+📝Manager at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
+
 ### Coding
 - I'm fairly experienced with
   - Java
