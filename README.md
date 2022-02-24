@@ -10,6 +10,8 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
   - Typescript
   - c++
   - Kotlin
+- I'm currently learning
+  - react-native
 - I'm planning on learning
   - Rust
   - C#
