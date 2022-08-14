@@ -11,7 +11,8 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
   - c++
   - Kotlin
 - I'm currently learning
-  - react-native (js framework)
+  - react-native
+  - dart / flutter
 - I'm planning on learning
   - Rust
   - C#
