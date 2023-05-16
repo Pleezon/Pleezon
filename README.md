@@ -3,13 +3,14 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
 📝Staff Lead at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
 
 ### Coding
-- I'm fairly experienced with
+- Computer magic I know
   - Java
   - Python
   - Javascript
   - Typescript
   - c++
   - Kotlin
+  - Pascal / Delphi
 - I'm currently learning
   - react-native
   - dart / flutter
