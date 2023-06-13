@@ -23,7 +23,7 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
  - Email
    - pleezon@javadiscord.net
  - Discord
-   - Pleezon#8867
+   - @pleezon (formerly Pleezon#8867)
 
 
 <!--
