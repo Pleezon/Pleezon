@@ -1,6 +1,6 @@
 # Hi, I'm Pleezon 👋
 I just graduated at a mathematically profiled high school in Berlin, Germany  
-📝Staff Lead at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
+📝Staff Lead at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord) 
 
 ### Coding
 - Computer magic I know
@@ -8,7 +8,7 @@ I just graduated at a mathematically profiled high school in Berlin, Germany
   - Python
   - Javascript
   - Typescript
-  - c++
+  - c# (.net)
   - Kotlin
   - Pascal / Delphi
   - lua
@@ -17,7 +17,7 @@ I just graduated at a mathematically profiled high school in Berlin, Germany
   - react-native
 - I'm planning on learning
   - Rust
-  - C#
+  - C++
   - go(lang)
   
  ### ✉️ Contact
