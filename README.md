@@ -13,6 +13,7 @@ I just graduated at a mathematically profiled high school in Berlin, Germany
   - Pascal / Delphi
   - lua
   - SQL
+  - motorola-6800-assembler (as0)
 - I'm currently learning
   - react-native
 - I'm planning on learning
