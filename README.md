@@ -1,5 +1,5 @@
 # Hi, I'm Pleezon 👋
-I'm a student at a mathematically profiled high school in Berlin, Germany  
+I just graduated at a mathematically profiled high school in Berlin, Germany  
 📝Staff Lead at [JavaDiscord](https://javadiscord.net/) | [GitHub](https://github.com/Java-Discord)
 
 ### Coding
@@ -11,9 +11,10 @@ I'm a student at a mathematically profiled high school in Berlin, Germany
   - c++
   - Kotlin
   - Pascal / Delphi
+  - lua
+  - SQL
 - I'm currently learning
   - react-native
-  - dart / flutter
 - I'm planning on learning
   - Rust
   - C#
