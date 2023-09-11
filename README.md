@@ -1,6 +1,6 @@
 # Hi, I'm Pleezon 👋
 I just graduated at a mathematically profiled high school in Berlin, Germany  
-📝Staff Lead at [JavaDiscord](https://discordjug.net/) | [GitHub](https://github.com/Java-Discord) 
+📝Staff Lead at [Java Community | Help | Code | Learn](https://discordjug.net/) | [GitHub](https://github.com/Java-Discord) 
 
 ### Coding
 - Computer magic I know
