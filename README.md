@@ -16,7 +16,8 @@ Currently studying at [Hasso Plattner Institute](https://hpi.de/index.html), Pot
   - SQL
   - motorola-6800-assembler (as0)
 - I'm currently learning
-  - react-native
+  - mongodb
+  - angular
 - I'm planning on learning
   - Rust
   - C++
