@@ -1,6 +1,6 @@
 # Hi, I'm Pleezon 👋
 I graduated from a mathematically profiled high school in Berlin, Germany.  
-Currently studying at [Hasso Plattner Institute](https://hpi.de/index.html), Potsdam, Germany.  
+Currently studying computer science at [Hasso Plattner Institute](https://hpi.de/index.html), Potsdam, Germany.  
 📝Staff Lead at [Java Community | Help | Code | Learn](https://discordjug.net/) | [GitHub](https://github.com/Java-Discord) 
 
 ### Coding
