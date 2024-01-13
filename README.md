@@ -18,6 +18,7 @@ Currently studying computer science at [Hasso Plattner Institute](https://hpi.de
 - I'm currently learning
   - mongodb
   - angular
+  - risc-V
 - I'm planning on learning
   - Rust
   - C++
