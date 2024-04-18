@@ -2,6 +2,8 @@
 
 Currently studying computer science at [Hasso Plattner Institute](https://hpi.de/index.html), Potsdam, Germany.  
 📝Staff Lead at [Java Community | Help | Code | Learn](https://discordjug.net/) | [GitHub](https://github.com/Java-Discord) 
+Software Engineer at [Mercedes Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/)
+
 
  ### ✉️ Contact
  - Email
