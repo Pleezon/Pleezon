@@ -3,27 +3,6 @@ I graduated from a mathematically profiled high school in Berlin, Germany.
 Currently studying computer science at [Hasso Plattner Institute](https://hpi.de/index.html), Potsdam, Germany.  
 📝Staff Lead at [Java Community | Help | Code | Learn](https://discordjug.net/) | [GitHub](https://github.com/Java-Discord) 
 
-### Coding
-- Computer magic I know
-  - Java
-  - Python
-  - Javascript
-  - Typescript
-  - c# (.net)
-  - Kotlin
-  - Pascal / Delphi
-  - lua
-  - SQL
-  - motorola-6800-assembler (as0)
-- I'm currently learning
-  - mongodb
-  - angular
-  - risc-V
-- I'm planning on learning
-  - Rust
-  - C++
-  - go(lang)
-  
  ### ✉️ Contact
  - Email
    - pleezon@javadiscord.net
