@@ -7,7 +7,7 @@ Working Student at [Mercedes Benz Tech Innovation](https://www.mercedes-benz-tec
 
  ### ✉️ Contact
  - Email
-   - pleezon@javadiscord.net
+   - pleezon@discordjug.net
  - Discord
    - @pleezon (formerly Pleezon#8867)
 
